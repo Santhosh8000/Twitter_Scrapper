@@ -1,2 +1,2 @@
 # Twitter_Scrapper
-A hobby work done on weekend
+As it's name suggest, Scrapping the tweets is the only thing it does
